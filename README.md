@@ -16,6 +16,12 @@ The `LCDKeypadShield` library is designed to work with Arduino-based LCD Keypad 
    - On macOS/Linux: `~/Arduino/libraries/`
 3. Restart the Arduino IDE to see the library in your **Sketch > Include Library** menu.
 
+## Video Tutorial
+
+Watch the video for a demonstration of the library:
+
+[![Watch the video](https://img.youtube.com/vi/tiE-pJBoA1s/0.jpg)](https://youtube.com/shorts/tiE-pJBoA1s)
+
 ## Usage
 
 ### 1. Initialize the Library
