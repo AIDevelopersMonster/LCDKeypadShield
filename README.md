@@ -20,7 +20,7 @@ The `LCDKeypadShield` library is designed to work with Arduino-based LCD Keypad 
 
 Watch the video for a demonstration of the library:
 
-[![Watch the video](https://img.youtube.com/vi/tiE-pJBoA1s/0.jpg)](https://youtube.com/shorts/tiE-pJBoA1s)
+[![Watch the video](https://img.youtube.com/vi/ysM0kWCtKqE/0.jpg)](https://youtu.be/ysM0kWCtKqE)
 
 ## Usage
 
